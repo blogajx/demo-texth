@@ -1,0 +1,12 @@
+# _config.yml
+
+title: Remembering Hadi Online
+description: The official tribute to Sharif Osman Hadi (1993-2025). Read the biography of the Inqilab Moncho spokesperson, timeline of the December 12 assassination, and his political legacy in Bangladesh.
+url: "https://rememberinghadi.online"
+
+# Use "pretty" permalinks (removes .html and uses trailing slash)
+permalink: pretty
+
+# GitHub Pages build settings
+markdown: kramdown
+theme: minima   # or your custom theme
