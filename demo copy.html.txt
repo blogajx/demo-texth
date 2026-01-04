@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		
+		<!--meta name="google-site-verification" content="QiS8qLeKrHA4DhYdJQ1j321IJzBkRwDBD-3jVUPJ7Bg" /-->
 		<title>Sharif Osman Hadi | Biography, Legacy & Tribute</title>
 		<meta name="description" content="The official tribute to Sharif Osman Hadi (1993-2025). Read the biography of the Inqilab Moncho spokesperson, timeline of the December 12 assassination, and his political legacy in Bangladesh.">
 		<meta name="keywords" content="Sharif Osman Hadi, Osman Hadi, Inqilab Moncho, Sharif Osman Hadi assassination, Bangladesh politics 2025, Remembering Hadi, Sharif Osman Hadi biography, July Revolution activist, Sharif Osman Hadi death">
