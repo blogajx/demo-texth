@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<title>Sharif Osman Hadi | Biography, Legacy & Tribute</title>
+		<meta name="description" content="The official tribute to Sharif Osman Hadi (1993-2025). Read the biography of the Inqilab Moncho spokesperson, timeline of the December 12 assassination, and his political legacy in Bangladesh.">
+		<meta name="keywords" content="Sharif Osman Hadi, Osman Hadi, Inqilab Moncho, Sharif Osman Hadi assassination, Bangladesh politics 2025, Remembering Hadi, Sharif Osman Hadi biography, July Revolution activist, Sharif Osman Hadi death">
+		<meta name="author" content="Remembering Hadi Team">
+		<meta name="robots" content="index, follow">
+		<meta http-equiv="Cache-Control" content="max-age=86400">
+	
+		<link rel="canonical" href="https://rememberinghadi.online/">
+
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://rememberinghadi.online/">
+		<meta property="og:title" content="Sharif Osman Hadi | In Memoriam (1993-2025)">
+		<meta property="og:description" content="A tribute to the life and legacy of Sharif Osman Hadi. Explore his biography, the timeline of the tragedy, and his vision for Bangladesh.">
+		<meta property="og:image" content="https://img.southasiajournal.net/assets/img//202512/1766200042_db7768021d61cc9dc4d5.jpg"> <meta property="og:image:alt" content="Portrait of Sharif Osman Hadi">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:site_name" content="Remembering Hadi">
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:type" content="image/png" />
+		
+		<meta name="twitter:url" content="https://rememberinghadi.online/">
+		<meta name="twitter:title" content="Remembering Sharif Osman Hadi">
+		<meta name="twitter:description" content="Documentation of the life, political struggle, and assassination of activist Sharif Osman Hadi.">
+		<meta name="twitter:image" content="https://rememberinghadi.online/wp-content/uploads/2026/01/sharif-osman-hadi-tribute-banner.png">
+		<!-- This site is optimized with the Yoast SEO plugin v25.8 - https://yoast.com/wordpress/plugins/seo/ -->
+		<meta property="article:publisher" content="https://web.facebook.com/osmanhadiofficial" />
+		<!-- / Yoast SEO plugin. -->		
+		<!-- Prefetch & Preconnect -->
+		<link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
+		<link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
+		<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+		<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<!-- RSS -->
+		<link rel="alternate" type="application/rss+xml" title="Remembering Hadi Online » Feed" href="feed.html" />
+		<link rel="alternate" type="application/rss+xml" title="Remembering Hadi Online » Comments Feed" href="comments/feed.html" />
+		<!-- Non-critical CSS loaded asynchronously -->
+		<!--link rel="stylesheet" href="wp-includes/css/dist/block-library/style.min6c2d.css?ver=6.9" media="print" onload="this.media='all'"-->
+		<link rel="stylesheet" href="/wp-content/plugins/aj-category-posts/css/ajcapos-style.css?ver=1747650467" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/plugins/cardelement/assets/css/crdelemnt-style.css?ver=1.0.0" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/plugins/hero-banner-lite/assets/css/herobannerlite-style.css?ver=1746755236" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/themes/NexGuardWebSolutions/style.css?ver=1.0.0" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/themes/NexGuardWebSolutions/assets/css/style-OLD.css?ver=1.0.0" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/themes/NexGuardWebSolutions/assets/css/style.css?ver=1.0.0" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/themes/NexGuardWebSolutions/assets/css/bootstrap.min.css?ver=4.6.2" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="/wp-content/themes/NexGuardWebSolutions/assets/bootstrap-icons/bootstrap-icons.css?ver=1.10.5" media="print" onload="this.media='all'">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" media="print" onload="this.media='all'">
+		<!--link rel="stylesheet" href="wp-includes/css/dashicons.min6c2d.css?ver=6.9" media="print" onload="this.media='all'"-->
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+		<!-- Google tag (gtag.js) snippet added by Site Kit -->
+		<!-- Google Analytics snippet added by Site Kit -->
+		<!-- Google Analytics (async) -->
+		<!-- WordPress JSON API -->
+		<link rel="https://api.w.org/" href="wp-json.html" />
+		<link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/9.json" />
+		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
+
+		<meta name="generator" content="WordPress 6.9.0" />
+		<meta name="generator" content="WooCommerce 7.8.1" />
+		<!-- Favicons -->
+		<link rel="icon" href="wp-content/uploads/2026/01/cropped-favicon-1-32x32.png" sizes="32x32" />
+		<link rel="icon" href="wp-content/uploads/2026/01/cropped-favicon-1-192x192.png" sizes="192x192" />
+		<link rel="apple-touch-icon" href="wp-content/uploads/2026/01/cropped-favicon-1-180x180.png" />
+		<meta name="msapplication-TileImage" content="https://rememberinghadi.online/wp-content/uploads/2026/01/cropped-favicon-1-270x270.png" />
+		<!-- Google Tag Manager (async) -->		
+		<script type="application/ld+json">
+			{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [{
+				"@type": "ListItem",
+				"position": 1,
+				"name": "Home",
+				"item": "https://rememberinghadi.online/"
+			},{
+				"@type": "ListItem",
+				"position": 2,
+				"name": "Biography",
+				"item": "https://rememberinghadi.online/#biography"
+			}]
+			}
+		</script>
+	</head>
+
+	<body class="home wp-singular page-template page-template-template-customblock page-template-template-customblock-php page page-id-9 wp-embed-responsive wp-theme-NexGuardWebSolutions">
+		<!-- Dynamic Loader -->
+		<div id="pre-load-animation">
+			<div class="loader"></div>
+		</div>	
+		<!--button-->
+		<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+		<!--button-->
+		<header class="container-fluid  sticky-top" id="main-header">
+			<div id="navbar-container"></div>
+		</header>
+			
+
+		<section class="hero">
+			<h1>Sharif Osman Hadi</h1>
+			<p class="dates">June 30, 1993 – December 18, 2025</p>
+			<p class="tagline">A voice for the youth, spokesperson of <em>Inqilab Moncho</em>, and a pivotal figure in the post-2024 political landscape of Bangladesh.</p>
+			<br>
+			<a href="#biography" class="hero-btn">Read His Story</a>
+		</section>
+
+        <!-- Content Section Start -->
+
+        <!-- Content Section Start -->
+
+
+        <!--Footer Section-->
+        <footer class="container-fluid footer-section pt-5 pb-3">
+            <div id="footer-container"></div>
+        </footer>
+
+		<script src="wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-3b23b71ea60c39fa1552.js" defer></script>
+		<script src="/footer-script.js" defer></script>
+		<script src="wp-content/themes/NexGuardWebSolutions/assets/js/jquery.min.js" defer></script>
+		<script src="/wp-content/themes/NexGuardWebSolutions/assets/js/script.js?ver=1.1.0" defer></script>
+		<script src="wp-content/themes/NexGuardWebSolutions/assets/js/bootstrap.bundle.min.js?ver=4.6.2" defer></script>
+	</body>
+</html>

@@ -21,6 +21,13 @@ body {
     background-color: var(--bg-light);
 }
 
+.hoverwhitetextbtn:hover {
+    color: #fff !important;
+}   
+.hoverblacktextbtn:hover{
+    color: #000 !important;
+}
+
 /* Wikipedia-style Tooltip CSS */
 /* 1. The Trigger Text (Faisal Karim Masud) */
 .wiki-tooltip {
